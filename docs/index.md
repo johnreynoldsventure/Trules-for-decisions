@@ -1,6 +1,7 @@
-Deliberations have goals. You're spending your time discussing a topic because you need to make some decisions.
-If you don't decide something, the deliberation has failed.
+Deliberations have goals. You're spending time discussing a topic because you need to make decisions.
+If you don't decide something the deliberation has failed.
 
+Trules® helps deliberations produce decisions.
 
 [Trules®](https://trules.app) is a product of 
 John Reynolds' Venture LLC (based in Santa Fe, New Mexico USA)
