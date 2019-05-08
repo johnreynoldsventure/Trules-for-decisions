@@ -19,7 +19,8 @@ Deliberating decisions can be hard, and trying to reach them online makes it eve
 
 Web conferencing helps folks when they can meet at the same time, but scheduling conflicts are all too common.
 
-Texting and email don't help you organize the information that your decision makers need. They don't help you keep the deliberations on track, and can often lead to misunderstandings and circular discussions.
+Texting and email don't help you organize the information that your decision makers need.
+They don't help you keep the deliberations on track, and can often lead to misunderstandings and circular discussions.
 
 [Trules®](https://trules.app) helps solve those problems.
 
