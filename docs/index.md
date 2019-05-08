@@ -1,3 +1,9 @@
+# de·lib·er·a·tion
+noun
+/dəˌlibəˈrāSH(ə)n/
+1. long and careful consideration or discussion.
+"after much deliberation we arrived at a decision"
+
 Deliberations have goals. You're spending time discussing a topic because you need to make decisions.
 If you don't decide something the deliberation has failed.
 
