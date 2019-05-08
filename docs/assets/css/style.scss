@@ -3,6 +3,13 @@
 
 @import "{{ site.theme }}";
 
+body,
+html {
+  background-color: #f6f9fc;
+  font-size: 18px;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
 header h1 {
   color: #6f76ab;
 }
