@@ -37,5 +37,5 @@ They don't help you keep the deliberations on track, and can often lead to misun
 [Trules®](https://trules.app) is a product of 
 John Reynolds' Venture LLC (based in Santa Fe, New Mexico USA)
 
-We produce software to help people organize their thoughts and reach decisions despite living in a world of constant distractions and frequent interruptions.
+We produce tools to help people organize thoughts and reach decisions despite living in a world of constant distractions and frequent interruptions.
 
