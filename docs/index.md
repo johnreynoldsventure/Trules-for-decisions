@@ -8,7 +8,15 @@ noun
 Deliberations have goals. You're spending time discussing a topic because you need to make decisions.
 If you don't decide something the deliberation has failed.
 
-Trules® helps deliberations produce decisions.
+Trules® helps deliberations succeed.
+
+Deliberating decisions can be hard, and trying to reach them online makes it even harder.
+
+Web conferencing helps folks when they can meet at the same time, but scheduling conflicts are all too common.
+
+Texting and email don't help you organize the information that your decision makers need. They don't help you keep the deliberations on track, and can often lead to misunderstandings and circular discussions.
+
+Trules®helps solve those problems.
 
 [Trules®](https://trules.app) is a product of 
 John Reynolds' Venture LLC (based in Santa Fe, New Mexico USA)
