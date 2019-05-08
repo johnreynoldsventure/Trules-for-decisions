@@ -1,3 +1,8 @@
+---
+layout: post
+author: john
+title: Trules®
+---
 
 # de·lib·er·a·tion
 noun
