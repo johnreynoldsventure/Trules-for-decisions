@@ -4,6 +4,14 @@ author: john
 title: Notes for decisions
 ---
 
+![Decision notes](/assets/images/DecisionNotes.jpg)
+
+I find that taking notes helps me reach better decisions.
+Notes help me organize my thoughts,
+and they are particularly important when I'm trying to reach a decision with others.
+
+<!--more-->
+
 <blockquote> I'm a compulsive note-taker, and I used to feel self-conscious about pulling out my little notebook and taking notes during a casual conversation.
 <br/>
 Then I noticed that people really seemed to enjoy it; the fact that I was taking notes made their remarks seem particularly insightful or valuable.
@@ -11,13 +19,7 @@ Then I noticed that people really seemed to enjoy it; the fact that I was taking
 <a href='https://www.brainyquote.com/quotes/gretchen_rubin_619392' target='__blank'>Getchen Rubin</a>
 </blockquote>
 
-<!--more-->
 
-![Decision notes](/assets/images/DecisionNotes.jpg)
-
-I find that taking notes helps me reach better decisions.
-Notes help me organize my thoughts,
-and they are particularly important when I'm trying to make (or sell) a decision with others.
 
 When making decisions with someone else,
 my notes help me to present my ideas better
