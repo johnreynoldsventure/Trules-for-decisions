@@ -9,12 +9,21 @@ body {
   line-height: 1.5;
   color: #6d6d6d;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
-  background-color: #f6f9fc;
+  background: #f6f9fc;
+}
+#container {
+  min-height: 595px;
+  background:  #f6f9fc;
 }
 
 header h1 {
-  color: #6f76ab;
+  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 48px; font-weight: 900;
+  line-height: 1.2;
+  color: #000000;
+  letter-spacing: -1px;
 }
+
 
 h2 {
   color: #6f76ab;
