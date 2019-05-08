@@ -21,7 +21,17 @@ Web conferencing helps folks when they can meet at the same time, but scheduling
 
 Texting and email don't help you organize the information that your decision makers need. They don't help you keep the deliberations on track, and can often lead to misunderstandings and circular discussions.
 
-Trules®helps solve those problems.
+[Trules®](https://trules.app) helps solve those problems.
+
+## Articles:
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p>{{ post.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>
 
 [Trules®](https://trules.app) is a product of 
 John Reynolds' Venture LLC (based in Santa Fe, New Mexico USA)
