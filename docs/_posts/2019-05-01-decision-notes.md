@@ -1,7 +1,7 @@
 ---
 layout: post
 author: john
-title: Notes for decisions
+title: Taking notes to reach decisions
 ---
 
 ![Decision notes](/assets/images/DecisionNotes.jpg)
