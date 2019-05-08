@@ -13,7 +13,7 @@ noun
 Deliberations have goals. You're spending time discussing a topic because you need to make decisions.
 If you don't decide something the deliberation has failed.
 
-Trules® helps deliberations succeed.
+[Trules®](https://trules.app) helps deliberations succeed.
 
 Deliberating decisions can be hard, and trying to reach them online makes it even harder.
 
