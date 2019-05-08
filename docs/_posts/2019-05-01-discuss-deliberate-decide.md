@@ -4,7 +4,7 @@ author: john
 title: Discussions ⟶ Deliberations ⟶ Decisions
 ---
 
-![Deliberations](/assets/images/shane-rounce-682791-unsplash.png)
+![Deliberations](/assets/images/DiscussionOverBeer.jpg)
 
 Discussions take many forms, but when your discussions are intended to reach decisions they become deliberations.
 <!--more-->
