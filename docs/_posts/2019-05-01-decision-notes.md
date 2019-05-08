@@ -6,11 +6,11 @@ title: Taking notes to reach decisions
 
 ![Decision notes](/assets/images/DecisionNotes.jpg)
 
-I find that taking notes helps me reach better decisions.
+Taking notes helps me reach better decisions.
+<!--more-->
 Notes help me organize my thoughts,
 and they are particularly important when I'm trying to reach a decision with others.
 
-<!--more-->
 
 <blockquote> I'm a compulsive note-taker, and I used to feel self-conscious about pulling out my little notebook and taking notes during a casual conversation.
 <br/>
