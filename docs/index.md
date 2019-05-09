@@ -4,28 +4,27 @@ author: john
 title: Trules®
 ---
 
-# de·lib·er·a·tion
-noun
-/dəˌlibəˈrāSH(ə)n/
+<h1>de·lib·er·a·tion</h1>
+noun <br/> /dəˌlibəˈrāSH(ə)n/ <br/>
 1. long and careful consideration or discussion.
 "after much deliberation we arrived at a decision"
 
 Deliberations have goals. You're spending time discussing a topic because you need to make decisions.
-If you don't reach decisions the deliberation has failed.
+If you don't reach decisions, you've wasted your time.
 
-[Trules®](https://trules.app) helps deliberations succeed.
+## [Trules®](https://trules.app) helps deliberations produce decisions.
 
 ![Decision is hiding in plain sight](/assets/images/DecisionDiceColor.jpg)
 
 Deliberating decisions can be hard, and trying to reach decisions online makes it even harder.
 
-Web conferencing falls short because folks can't meet at the same time - scheduling conflicts are all too common and people get interrupted constantly.
+Web conferencing tools falls short because folks can seldom meet at the same time - scheduling conflicts are all too common and people get interrupted constantly.
 
-Texting and email fall short because people are busy, distracted and multitasking - folks often miss posts or read them out of order, and that leads to circuitous threads and misunderstandings.
+Texting and email tools fall short because people are busy, distracted and multitasking - folks often miss posts or read them out of order, and that leads to circuitous threads and misunderstandings.
 
 [Trules®](https://trules.app) was built to solve those problems.
 
-[Trules®](https://trules.app) helps you harvest the relevant information from your discussion, organize that information for evaluation, and vote on decisions.
+[Trules®](https://trules.app) helps you harvest the relevant information from your deliberations, summarize that information for analysis and evaluation, reach consensus and present the decisions to those who need to know.
 
 
 ## Articles:
