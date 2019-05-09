@@ -24,11 +24,11 @@ They don't help you keep the deliberations on track, and can often lead to misun
 
 [Trules®](https://trules.app) helps solve those problems.
 
-## Articles {site}:
+## Articles:
 <ul>
   {% for post in site.posts %}
     <li>
-      <h2><a href="{/Trules-for-decisions/{ post.url }}">{{ post.title }}</a></h2>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       <p>{{ post.excerpt }}</p>
     </li>
   {% endfor %}
