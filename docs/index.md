@@ -26,7 +26,8 @@ They don't help you keep the deliberations on track, and can often lead to misun
 
 ## Articles:
 <ul>
-  {% for post in site.Trules-for-decisions.posts %}
+site.posts {{site.posts}}
+  {% for post in site.posts %}
     <li>
     post.url:{{post.url}}
       <h2><a href="/Trules-for-decisions{{ post.url }}">{{ post.title }}</a></h2>
