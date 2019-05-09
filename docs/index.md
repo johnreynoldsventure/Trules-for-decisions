@@ -16,15 +16,15 @@ If you don't reach decisions, you've wasted your time.
 
 ![Decision is hiding in plain sight](/assets/images/DecisionDiceColor.jpg)
 
-Deliberating decisions can be hard, and trying to reach decisions online makes it even harder.
+Deliberating decisions can be hard, and trying to reach decisions online makes it even harder because people are busy, distracted and multitasking.
 
-Web conferencing tools falls short because folks can seldom meet at the same time - scheduling conflicts are all too common and people get interrupted constantly.
+**Web conferencing tools** fall short because folks can seldom meet at the same time, they can't meet for long enough to decide, and they are constantly interrupted when they can meet.
 
-Texting and email tools fall short because people are busy, distracted and multitasking - folks often miss posts or read them out of order, and that leads to circuitous threads and misunderstandings.
+**Texting and email tools** fall short because folks often miss posts, read them out of order or post off-topic replies - all of which often leads to simple misunderstandings, circuitous discussions and wasted time.
 
-[Trules®](https://trules.app) was built to solve those problems.
+**[Trules®](https://trules.app)** was built to solve those problems.
 
-[Trules®](https://trules.app) helps you harvest the relevant information from your deliberations, summarize that information for analysis and evaluation, reach consensus and present the decisions to those who need to know.
+[Trules®](https://trules.app) helps you harvest the relevant information from your deliberations, summarize that information for analysis and evaluation, reach consensus and present your decisions to everyone who needs to know.
 
 
 ## Read more...
