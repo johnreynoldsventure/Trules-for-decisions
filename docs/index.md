@@ -26,7 +26,7 @@ They don't help you keep the deliberations on track, and can often lead to misun
 
 ## Articles:
 <ul>
-  {% for post in site.posts %}
+  {% for post in page.posts %}
     <li>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       <p>{{ post.excerpt }}</p>
