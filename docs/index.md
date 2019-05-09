@@ -19,7 +19,7 @@ If you don't reach decisions the deliberation has failed.
 
 Deliberating decisions can be hard, and trying to reach decisions online makes it even harder.
 
-Web conferencing often fall short because folks can't meet at the same time - scheduling conflicts are all too common and people get interrupted constantly.
+Web conferencing falls short because folks can't meet at the same time - scheduling conflicts are all too common and people get interrupted constantly.
 
 Texting and email fall short because they don't help you filter and organize the information that your decision makers really need.
 
