@@ -28,8 +28,8 @@ They don't help you keep the deliberations on track, and can often lead to misun
 <ul>
   {% for post in site.posts %}
     <li>
-      {{ post.url }}
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      /Trules-for-decisions{{ post.url }}
+      <h2><a href="/Trules-for-decisions{{ post.url }}">{{ post.title }}</a></h2>
       <p>{{ post.excerpt }}</p>
     </li>
   {% endfor %}
