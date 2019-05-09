@@ -24,9 +24,9 @@ They don't help you keep the deliberations on track, and can often lead to misun
 
 [Trules®](https://trules.app) helps solve those problems.
 
-## Articles:
+## Articles {site}:
 <ul>
-  {% for post in site/Trules-for-decisions/.posts %}
+  {% for post in site.Trules-for-decisions.posts %}
     <li>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       <p>{{ post.excerpt }}</p>
