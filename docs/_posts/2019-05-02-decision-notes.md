@@ -4,7 +4,7 @@ author: john
 title: Notes for decision making
 ---
 
-![Decision notes](/assets/images/DecisionNotes.jpg)
+![Decision notes](/Trules-for-decisions/assets/images/DecisionNotes.jpg)
 
 Taking notes helps me reach better decisions.
 <!--more-->
