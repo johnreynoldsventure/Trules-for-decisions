@@ -21,9 +21,11 @@ Deliberating decisions can be hard, and trying to reach decisions online makes i
 
 Web conferencing falls short because folks can't meet at the same time - scheduling conflicts are all too common and people get interrupted constantly.
 
-Texting and email fall short because they don't help you filter and organize the information that your decision makers really need.
+Texting and email fall short because people are busy, distracted and multitasking - folks often miss posts or read them out of order, and that leads to circuitous threads and misunderstandings.
 
 [Trules®](https://trules.app) was built to solve those problems.
+
+[Trules®](https://trules.app) helps you harvest the relevant information from your discussion, organize that information for evaluation, and vote on decisions.
 
 
 ## Articles:
