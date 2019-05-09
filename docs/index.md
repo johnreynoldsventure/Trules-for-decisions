@@ -24,7 +24,7 @@ They don't help you keep the deliberations on track, and can often lead to misun
 
 [Trules®](https://trules.app) helps solve those problems.
 
-## Articles to read:
+## Articles:
 <ul>
   {% for page in site.posts %}
     <li>
