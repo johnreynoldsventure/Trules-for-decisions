@@ -12,16 +12,15 @@ Notes help me organize my thoughts,
 and they are particularly important when I'm trying to reach a decision with others.
 
 
-<blockquote> I'm a compulsive note-taker, and I used to feel self-conscious about pulling out my little notebook and taking notes during a casual conversation.
+<blockquote>
+I'm a compulsive note-taker, and I used to feel self-conscious about pulling out my little notebook and taking notes during a casual conversation.
 <br/>
 Then I noticed that people really seemed to enjoy it; the fact that I was taking notes made their remarks seem particularly insightful or valuable.
 <br/>
 <a href='https://www.brainyquote.com/quotes/gretchen_rubin_619392' target='__blank'>Getchen Rubin</a>
 </blockquote>
 
-
-
-When making decisions with someone else,
+When making decisions with others,
 my notes help me to present my ideas better
 and to develop a better understanding of their ideas.
 

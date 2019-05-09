@@ -15,7 +15,7 @@ If you don't decide something the deliberation has failed.
 
 [Trules®](https://trules.app) helps deliberations succeed.
 
-Deliberating decisions can be hard, and trying to reach them online makes it even harder.
+Deliberating decisions can be hard, and trying to reach decisions online makes it even harder.
 
 Web conferencing helps folks when they can meet at the same time, but scheduling conflicts are all too common.
 
