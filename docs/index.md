@@ -28,13 +28,14 @@ Texting and email tools fall short because people are busy, distracted and multi
 
 
 ## Read more...
-
+<div>
   {% for post in site.posts %}
     <div>
       <h2><a href="/Trules-for-decisions{{ post.url }}">{{ post.title }}</a></h2>
       <p>{{ post.excerpt }}</p>
     </div>
   {% endfor %}
+</div>
 
 [Trules®](https://trules.app) is a product of 
 John Reynolds' Venture LLC (based in Santa Fe, New Mexico USA)
