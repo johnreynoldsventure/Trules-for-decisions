@@ -27,15 +27,14 @@ Texting and email tools fall short because people are busy, distracted and multi
 [Trules®](https://trules.app) helps you harvest the relevant information from your deliberations, summarize that information for analysis and evaluation, reach consensus and present the decisions to those who need to know.
 
 
-## Articles:
-<ul>
+## Read more...
+
   {% for post in site.posts %}
-    <li>
+    <div>
       <h2><a href="/Trules-for-decisions{{ post.url }}">{{ post.title }}</a></h2>
       <p>{{ post.excerpt }}</p>
-    </li>
+    </div>
   {% endfor %}
-</ul>
 
 [Trules®](https://trules.app) is a product of 
 John Reynolds' Venture LLC (based in Santa Fe, New Mexico USA)
