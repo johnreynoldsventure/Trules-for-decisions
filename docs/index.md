@@ -24,7 +24,7 @@ They don't help you keep the deliberations on track, and can often lead to misun
 
 ![Decision is hiding in plain sight](/assets/images/DecisionDiceColor.jpg)
 
-[Trules®](https://trules.app) helps solve those problems by helping you separate the solution from the noise.
+[Trules®](https://trules.app) helps solve those problems by helping you find the solution in the noise.
 
 ## Articles:
 <ul>
