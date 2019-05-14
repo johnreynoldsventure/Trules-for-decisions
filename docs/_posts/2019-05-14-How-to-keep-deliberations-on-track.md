@@ -21,10 +21,10 @@ by trying to resolve contentious issues?
 I think we can, and that's why I'm building Trules... 
 
 I've collaborated on countless decisions, 
-and I've help facilitate many groups that couldn't reach consensus without outside help...
+and I've helped facilitate the deliberations of many groups that couldn't reach consensus without outside help...
 so I guess I'm an expert.
 
-I've learned some techniques and I've learned some rules 
+Over the years I've learned some techniques and I've learned some rules 
 that will help you reach consensus (when that's possible)
 and that will help you avoid "making things worse" (when consensus isn't possible).
 
@@ -48,7 +48,7 @@ you've got to clearly state and share the goals of the deliberation,
 and update those goals as they become clearer.
 
 That's a crucial point to keep in mind - 
-the goal of a deliberation are often refined and changed as 
+the goals of a deliberation are often refined and changed as 
 more is shared and learned about the topic.
 
 As discussion progress, you may realize that there
@@ -108,15 +108,19 @@ Once you're happy with your summary, hide the "raw" transcript to focus subseque
 This leads everyone towards consensus, 
 because there's now a shared context of "where we are" in relation to "reaching our goal".
 
-As you get closer to the goal, the best steps to get to it become clearer.
-
 That's really all there is to it:
-- Organize the discussion. 
-- Summarize the discussion. 
-- Publicize the summary.
+- Organize the discussion 
+- Summarize the discussion
+- Publicize the summary
+- Repeat until you reach consensus
 
-The hard part is that you have to do this frequently as the deliberations progress -
-and that's were a tool like Trules can help.
+The tedious part is that you have to do this frequently as the deliberations progress -
+and that's where Trules can help.
+
+With good summaries, you'll all know what's been done, what's left to be done, and where the pitfalls lie.
+There's still a lot of diplomacy that will be necessary to close the gaps, but it will be easier
+to keep objective and focus on what folks have in common.
+
 
 
 
