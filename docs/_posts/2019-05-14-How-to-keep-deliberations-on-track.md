@@ -8,6 +8,7 @@ title: How to keep deliberations on track
 
 Keeping deliberations on track is a skill that you can learn...
 <!--more-->
+
 If I ask you what word comes to mind when you hear the word "deliberations"
 I fear that many of you will reply with the words "deadlocked", "stalled" or "failed".
 
@@ -30,7 +31,7 @@ and that will help you avoid "making things worse" (when consensus isn't possibl
 Trules is built to make following these techniques and rules easier, 
 but they're not that hard to apply on your own (tedious, but not hard).
 
-To begin, aleay remember that deliberations are discussions that have a goal.
+To begin, always remember that deliberations are discussions that have a goal.
 To avoid disruptions, delays and deadlocks you have to keep the focus on the goal.
 Discussions can be wide-ranging, wandering and circuitous 
 but deliberations can't (or they'll fail). 
