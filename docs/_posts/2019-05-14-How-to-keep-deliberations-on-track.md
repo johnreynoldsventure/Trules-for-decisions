@@ -60,9 +60,8 @@ Make sure that folks are always aware of what the
 goals of the deliberations are *at this time*.
 
 **Organize, Summarize, Publicize**
-
-In order to stay on topic (when the topic is likely to change)
-requires summarizing the discussions.
+Staying on topic is made easier by frequently summarizing the discussion.
+What's been accomplished? What still unresolved? How close are you to reaching consensus?
 
 If each participant has to read through a transcript of the entire
 discussion, then you're almost assured that they'll develop different
@@ -71,7 +70,7 @@ They'll miss exchanges, read them out of order, etc.
 They're not being malicious or lazy, 
 it's just what happens when you read through a lot of messages.
 
-To avoid this, product and keep up to date a summary of the discussion.
+To keep folks on the same page, produce and keep up to date a summary of the discussion up to that point in time.
 That can be hard, but it's easier if you apply the following techniques.
 
 As comments are made, organize them into categories and themes.
@@ -94,7 +93,7 @@ The organized Q&A should be an easy to read presentation of what's been said tha
 Once you've organized the responses, then you need to summarize the responses as concisely as you can.
 
 Concise summaries are important tools for building consensus
-because they ensure that everyone is "on the same page" and help them focus on what to do next.
+because they provide a shared context to focus while deciding what to do next.
 
 Conciseness is the extent to which a piece of writing communicates clear information in as few words as possible.
 Every word and phrase is subject to misinterpretation, so the fewer words the better.
@@ -103,12 +102,12 @@ Note that there is a real danger (almost a certainty) that your initial summary 
 For that reason, set up procedures for those who might disagree with your summary to express 
 and incorporate their concerns as objectively as possible.
 
-Once you're happy with your summary, hide the "raw" transcript to focus subsequent discussions on the summary.
+When complete, the summary serves as the launchpad for further discussions.
 
 This leads everyone towards consensus, 
 because there's now a shared context of "where we are" in relation to "reaching our goal".
 
-To summarize:
+To recap:
 - Organize the discussion 
 - Summarize the discussion
 - Publicize the summary - and carry on the discussions from there
