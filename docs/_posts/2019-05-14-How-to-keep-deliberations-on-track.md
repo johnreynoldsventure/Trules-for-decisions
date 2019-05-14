@@ -36,7 +36,7 @@ To avoid disruptions, delays and deadlocks you have to keep the focus on the goa
 Discussions can be wide-ranging, wandering and circuitous 
 but deliberations can't (or they'll fail). 
 
-Stick to the Topic
+**Stick to the Topic**
 
 Participants need to have a bit of discipline to keep their
 contributions on topic - 
@@ -59,7 +59,7 @@ That's okay, and it's to be expected.
 Make sure that folks are always aware of what the
 goals of the deliberations are *at this time*.
 
-Organize, Summarize, Publicize
+**Organize, Summarize, Publicize**
 
 In order to stay on topic (when the topic is likely to change)
 requires summarizing the discussions.
@@ -108,11 +108,11 @@ Once you're happy with your summary, hide the "raw" transcript to focus subseque
 This leads everyone towards consensus, 
 because there's now a shared context of "where we are" in relation to "reaching our goal".
 
-That's really all there is to it:
+To summarize:
 - Organize the discussion 
 - Summarize the discussion
 - Publicize the summary
-- Repeat until you reach consensus
+- Repeat as often as necessary until you reach consensus
 
 The tedious part is that you have to do this frequently as the deliberations progress -
 and that's where Trules can help.
