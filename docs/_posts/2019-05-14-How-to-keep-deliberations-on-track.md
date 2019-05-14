@@ -14,11 +14,10 @@ I fear that many of you will reply with the words "deadlocked", "stalled" or "fa
 It's hard to get people to reach consensus on "what to do" about just about any non-trivial issue -
  and folks can end up more polarized after deliberating a topic than they were before discussing it.
 
-How can we prevent that, or at least lessen the chances that we're going to "make it worse" 
-by trying to resolve pressing issues?
+Can we prevent deliberation deadlocks, or at least lessen the chances that we're going to "make it worse" 
+by trying to resolve contentious issues?
 
-That's the question that I'm trying to answer with Trules... 
-Can tools help our deliberations bear fruit?
+I think we can, and that's why I'm building Trules... 
 
 I've collaborated on countless decisions, 
 and I've help facilitate many groups that couldn't reach consensus without outside help...
