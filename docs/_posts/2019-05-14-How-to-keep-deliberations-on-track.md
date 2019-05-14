@@ -111,7 +111,7 @@ because there's now a shared context of "where we are" in relation to "reaching 
 To summarize:
 - Organize the discussion 
 - Summarize the discussion
-- Publicize the summary
+- Publicize the summary - and carry on the discussions from there
 - Repeat as often as necessary until you reach consensus
 
 The tedious part is that you have to do this frequently as the deliberations progress -
