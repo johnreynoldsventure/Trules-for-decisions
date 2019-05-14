@@ -91,18 +91,23 @@ what the state of consensus is *at this time*.
 
 The organized Q&A should be an easy to read presentation of what's been said that is as clear as it can be.
 
-Once you've organized the responses, then you need to summarize them.
+Once you've organized the responses, then you need to summarize the responses as concisely as you can.
 
-Conciseness is your most powerful tool for building consensus.
+Concise summaries are important tools for building consensus
+because they ensure that everyone is "on the same page" and help them focus on what to do next.
+
+Conciseness is the extent to which a piece of writing communicates clear information in as few words as possible.
 Every word and phrase is subject to misinterpretation, so the fewer words the better.
 
-Note that there is a real danger (almost a certainty) that your summary will be biased.
+Note that there is a real danger (almost a certainty) that your initial summary will be biased.
 For that reason, set up procedures for those who might disagree with your summary to express 
 and incorporate their concerns as objectively as possible.
 
-Once you're happy with your summary, hide the "raw" transcript and focus subsequent discussions on the summary.
+Once you're happy with your summary, hide the "raw" transcript to focus subsequent discussions on the summary.
+
 This leads everyone towards consensus, 
-because there's a shared context of "where we are" in relation to "reaching our goal".
+because there's now a shared context of "where we are" in relation to "reaching our goal".
+
 As you get closer to the goal, the best steps to get to it become clearer.
 
 That's really all there is to it:
