@@ -4,7 +4,7 @@ author: john
 title: How to keep deliberations on track
 ---
 
-![Decision notes](/Trules-for-decisions/assets/images/DecisionNotes.jpg)
+![Decision notes](/Trules-for-decisions/assets/images/KeepOnTrack.jpg)
 
 Keeping deliberations on track is a skill that you can learn...
 <!--more-->
