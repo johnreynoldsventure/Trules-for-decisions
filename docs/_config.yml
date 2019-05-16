@@ -1,3 +1,6 @@
 theme: jekyll-theme-tactile
 title: Trules®
 description: Deliberations that bear fruit
+
+plugins:
+  - jekyll-seo-tag
