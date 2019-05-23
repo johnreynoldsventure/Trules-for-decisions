@@ -18,7 +18,8 @@ It's hard to get people to reach consensus on "what to do" about just about any 
 Can we prevent deliberation deadlocks, or at least lessen the chances that we're going to "make it worse" 
 by trying to resolve contentious issues?
 
-I think we can, and that's why I'm building Trules... 
+I think we can, and that's why I'm building Trules...
+## [Trules](https://trules.app) helps deliberations produce decisions.
 
 I've collaborated on countless decisions, 
 and I've helped facilitate the deliberations of many groups that couldn't reach consensus without outside help...
