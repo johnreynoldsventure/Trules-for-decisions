@@ -12,7 +12,7 @@ noun <br/> /dəˌlibəˈrāSH(ə)n/ <br/>
 Deliberations have goals. You're spending time discussing a topic because you need to make decisions.
 If you don't reach decisions, you've wasted your time.
 
-## [Trules®](https://trules.app) helps deliberations produce decisions.
+## [Trules](https://trules.app) helps deliberations produce decisions.
 
 ![Decision is hiding in plain sight](/assets/images/DecisionDiceColor.jpg)
 
@@ -22,9 +22,9 @@ Deliberating decisions can be hard, and trying to reach decisions online makes i
 
 **Texting and email tools** fall short because folks often miss posts, read them out of order or post off-topic replies - all of which often leads to simple misunderstandings, circuitous discussions and wasted time.
 
-**[Trules®](https://trules.app)** was built to solve those problems.
+**[Trules](https://trules.app)** was built to solve those problems.
 
-[Trules®](https://trules.app) helps you harvest the relevant information from your deliberations, summarize that information for analysis and evaluation, reach consensus and present your decisions to everyone who needs to know.
+[Trules](https://trules.app) helps you harvest the relevant information from your deliberations, summarize that information for analysis and evaluation, reach consensus and present your decisions to everyone who needs to know.
 
 
 ## Read more...
